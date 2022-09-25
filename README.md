@@ -1,1 +1,1 @@
-# this is a repo for jupyter notebook and pytorch testing.
+# This is a repo for jupyter notebook and pytorch testing.
