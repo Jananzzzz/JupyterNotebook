@@ -7,4 +7,4 @@ tensor = np.array(list)
 
 print(tensor)
 
-print(tensor.T)  
+print(tensor.T)  # transpose
